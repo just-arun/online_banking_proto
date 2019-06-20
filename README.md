@@ -25,7 +25,6 @@ For detailed explanation on how things work, checkout [Nuxt.js docs](https://nux
 ## bank collections
 ```json
 {
-	"_id" : ObjectId("5cefe86233c50f0fa1b596ec"),
 	"name" : "school-1",
 	"started" : "2003",
 	"address" : "near mkb nagar",
@@ -163,7 +162,6 @@ For detailed explanation on how things work, checkout [Nuxt.js docs](https://nux
 	]
 }
 {
-	"_id" : ObjectId("5cefe8882cc4310fc604073a"),
 	"name" : "school-2",
 	"started" : "2003",
 	"address" : "near mkb nagar",
