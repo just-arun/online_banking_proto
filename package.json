@@ -22,7 +22,7 @@
     "hchs-vue-charts": "^1.2.8",
     "json2xls": "^0.1.2",
     "mongojs": "^2.6.0",
-    "mongoose": "^5.5.11",
+    "mongoose": "^5.7.5",
     "nodemailer": "^6.2.1",
     "nuxt": "^2.4.0",
     "randomcolor": "^0.5.4",
